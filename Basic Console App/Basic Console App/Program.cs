@@ -17,7 +17,7 @@ class Program
 
     static async Task Main(string[] args)
     {
-        string apiEndpoint = "http://localhost:3000/api/version";
+        string apiEndpoint = "http://147.185.221.18:17182/api/version";
         string expectedVersion = "1.0.0"; // Replace with your expected version
         string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
