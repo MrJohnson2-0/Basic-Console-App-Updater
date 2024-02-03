@@ -17,8 +17,8 @@ class Program
 
     static async Task Main(string[] args)
     {
-        string apiEndpoint = "https://example.com/api/version";
-        string expectedVersion = "1.0"; // Replace with your expected version
+        string apiEndpoint = "http://localhost:3000/api/version";
+        string expectedVersion = "1.0.0"; // Replace with your expected version
         string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
 
@@ -30,7 +30,7 @@ class Program
         else
         {
             Console.WriteLine("API version is incorrect. Exiting...");
-            Environment.Exit(0);
+            
         }
     }
 
