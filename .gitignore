@@ -53,5 +53,5 @@ dkms.conf
 
 JavascriptPart/node_modules
 Basic Console App/bin/Release/
-Basic Console App/obj/
+Basic Console App/obj/Release/
 Basic Console App/.vs
