@@ -1,0 +1,19 @@
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\bin\Release\net8.0\Basic Console App.exe
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\bin\Release\net8.0\Basic Console App.deps.json
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\bin\Release\net8.0\Basic Console App.runtimeconfig.json
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\bin\Release\net8.0\Basic Console App.dll
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\bin\Release\net8.0\Basic Console App.pdb
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\bin\Release\net8.0\Spectre.Console.dll
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\obj\Release\net8.0\Basic Console App.csproj.AssemblyReference.cache
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\obj\Release\net8.0\Basic Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\obj\Release\net8.0\Basic Console App.AssemblyInfoInputs.cache
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\obj\Release\net8.0\Basic Console App.AssemblyInfo.cs
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\obj\Release\net8.0\Basic Console App.csproj.CoreCompileInputs.cache
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\obj\Release\net8.0\Basic Console App.sourcelink.json
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\obj\Release\net8.0\Basic Console App.csproj.CopyComplete
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\obj\Release\net8.0\Basic Console App.dll
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\obj\Release\net8.0\refint\Basic Console App.dll
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\obj\Release\net8.0\Basic Console App.pdb
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\obj\Release\net8.0\Basic Console App.genruntimeconfig.cache
+C:\Users\unepi\OneDrive\Documents\GitHub\Basic-Console-App-Updater\Basic Console App\Basic Console App\obj\Release\net8.0\ref\Basic Console App.dll
